@@ -8,7 +8,7 @@ I'm a Junior Developer and currently studying Media Computer Science at BHT in B
 
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dennis2go) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/dennis2go](https://www.linkedin.com/in/dennis-blömeke-b34b082b4/)) 
 
 [![](https://visitcount.itsvg.in/api?id=dennis2go&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
