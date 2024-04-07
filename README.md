@@ -1,5 +1,6 @@
-# 🎴 Welcome my name is Dennis:
-I'm a Junior Developer and currently studying Media Computer Science at BHT in Berlin.
+# 🎴 Welcome my name is Dennis
+I'm a Junior Developer <br> 
+I'm currently studying Media Computer Science at BHT in Berlin.
 
 
 
