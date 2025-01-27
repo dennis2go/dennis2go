@@ -6,15 +6,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">- I'm a Junior Developer<br>- I'm currently studying Media Computer Science at BHT in Berlin.<br>- I'm working for Peaks&Pies</p>
+<h4 align="left">- I'm a Junior Developer<br>- I'm currently studying Media Computer Science at BHT in Berlin.<br>- I'm working for Peaks&Pies</h4>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h3>
 
 ###
 
