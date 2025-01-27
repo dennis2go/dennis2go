@@ -1,10 +1,8 @@
 <h1 align="center">welcome,<br>my name is Dennis</h1>
 
 ###
-
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=dennis2go&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+[![](https://visitcount.itsvg.in/api?id=dennis2go&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
