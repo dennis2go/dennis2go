@@ -1,10 +1,6 @@
 <h1 align="center">Welcome,<br>my name is Dennis</h1>
 
 ###
-[![](https://visitcount.itsvg.in/api?id=dennis2go&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-###
 
 <h2 align="left">👩‍💻  About Me</h2>
 
